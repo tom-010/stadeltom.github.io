@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Thomas Stadelmann</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Thomas Stadelmann</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2025 19:03:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Is My Hobby</title>
+      <link>http://localhost:1313/posts/learning-is-my-hobby/</link>
+      <pubDate>Thu, 06 Feb 2025 19:03:33 +0100</pubDate>
+      <guid>http://localhost:1313/posts/learning-is-my-hobby/</guid>
+      <description>&lt;p&gt;Learning is my Hobby.
+Just do it for the sake of it. No big goal required.
+Get very good in it by enjoying it.
+Deliberate Practice to get better, exercise to enjoy.
+Don&amp;rsquo;t take yourself so serious, have fun and play.
+Only intrinsic, no extrinsic motivation.
+Let learning become part of your identity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Site</title>
+      <link>http://localhost:1313/posts/my-site/</link>
+      <pubDate>Thu, 06 Feb 2025 19:01:39 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-site/</guid>
+      <description>&lt;p&gt;A place to write my thoughts down.
+Intended only for me. Target audience is my future self.
+Define my profile, get stuff out of my head.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
